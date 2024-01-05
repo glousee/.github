@@ -1,1 +1,3 @@
-# .github
+# Glousee
+
+Cooking the future 🧑🏾‍🍳
